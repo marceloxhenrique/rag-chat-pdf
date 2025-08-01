@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/core": "^0.3.66",
+    "@langchain/openai": "^0.6.3",
+    "@pinecone-database/pinecone": "^6.1.2",
     "@radix-ui/react-dropdown-menu": "^2.1.15",
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "langchain": "^0.3.30",
     "lucide-react": "^0.525.0",
     "next": "15.4.3",
     "next-themes": "^0.4.6",
